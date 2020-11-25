@@ -6,6 +6,6 @@ node {
         echo 'Test'
     }
     stage('Deploye') {
-        echo 'Deploy'
+        echo 'Jenkinsfile02'
     }
 }

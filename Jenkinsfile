@@ -9,6 +9,6 @@ node {
         echo 'Deploy'
     }
     stage('Deploye-02') {
-        echo 'Deploy-02'
+        echo 'Jenkinsfile'
     }   
 }
